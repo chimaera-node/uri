@@ -1,0 +1,18 @@
+{
+  "name": "@chimaera/uri",
+  "version": "0.0.0",
+  "description": "uri <=> config",
+  "author": "Richard Tong",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github:chimaera-node/uri"
+  },
+  "dependencies": {
+    "rubico": "latest"
+  },
+  "devDependencies": {
+    "a-sert": "latest"
+  }
+}
